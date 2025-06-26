@@ -1,79 +1,88 @@
-# 👋 Hi there, I'm Venkat!
+<h1 align="center">Hey there! 👋 I'm Venkat</h1>
 
-**Software Developer | Data Engineer | API Integrator | Cloud Enthusiast | Travel Freak**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/venkataramana7/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:venkataramana1801@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/venkatk1801?label=Follow&style=social)](https://github.com/venkatk1801)
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer currently working at **Mr. Cooper** as a **Software Developer I** on the **API Integration Team**.  
-I focus on designing robust backend systems, APIs, and data pipelines using modern cloud tools and integrations.  
-
-> ⚡ My dream is to visit **30 countries before 30** while becoming a top-tier **data engineer** and diving deep into **AI & ML**.
+<p align="center">
+  <b>Software Developer | Data Engineer | API Enthusiast | Cloud Explorer | Travel Freak 🌍</b><br>
+  <a href="mailto:venkataramana1801@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/venkataramana7/">🔗 LinkedIn</a> •
+  <a href="https://github.com/venkatk1801">🐙 GitHub</a>
+</p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🙋‍♂️ About Me
 
-### 💻 Languages  
-`Python` • `SQL` • `Java` • `C++` • `Shell Script`
-
-### ☁️ Cloud & DevOps  
-`AWS (S3, EC2, Lambda, RDS, Redshift)`  
-`GCP (BigQuery, Dataproc, GCS, Composer)`  
-`Azure (Logic Apps, Key Vault)` • `Terraform` • `Docker` • `GitHub Actions`
-
-### 🔗 APIs & Integration  
-`FastAPI` • `GraphQL` • `Apigee X` • `OAuth2 / JWT` • `Azure Logic Apps`
-
-### 🗃️ Databases & Storage  
-`Snowflake` • `PostgreSQL` • `MongoDB` • `SQL Server` • `MySQL`
-
-### 🔄 Streaming & Big Data  
-`Kafka` • `PySpark` • `Hive` • `Hadoop` • `Sqoop`
-
-### 🧪 Testing & Logging  
-`Pytest` • `Structured JSON Logging`
-
-### 📊 Visualization  
-`Tableau` • `Google Looker` • `Excel Automation`
+- 🧠 Currently working as a **Software Developer I** @ Mr. Cooper on the **API Integration Team**
+- 💻 Focused on backend APIs, data pipelines, and cloud workflows  
+- 🧳 A travel enthusiast aiming to visit **30 countries before 30**  
+- 🤖 Interested in AI, Data Engineering, and building scalable systems
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🧰 Tech Stack
 
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatk1801&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatk1801&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=venkatk1801&theme=radical&hide_border=true)
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-89e051?style=flat&logo=gnu-bash&logoColor=black)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+
+### 📦 Databases & Processing
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat&logo=apachespark)
+
+### 🔗 APIs & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
+![Apigee](https://img.shields.io/badge/Apigee-EA4335?style=flat&logo=googleapigee)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatk1801&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatk1801&layout=compact&theme=tokyonight" height="160"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=venkatk1801&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 🌐 Featured Projects
+## 🔥 Featured Projects
 
-🚀 **[Real-Time Kafka → Snowflake Data Ingestion](https://github.com/venkatk1801)**  
-*Kafka consumer for streaming real-time API data and storing in Snowflake for bronze layer hydration.*
-
-🔐 **[FastAPI + OAuth + MongoDB POC](https://github.com/venkatk1801)**  
-*Proof of concept backend API for secure authentication and NoSQL data serving.*
-
-📡 **[Webhook-based Data Triggering System](https://github.com/venkatk1801)**  
-*Azure Logic App and FastAPI integration for real-time webhook data capture.*
+| Project | Description |
+|--------|-------------|
+| [**Real-Time Kafka → Snowflake Pipeline**](https://github.com/venkatk1801) | Streaming data ingestion POC for real-time insights |
+| [**FastAPI OAuth Backend**](https://github.com/venkatk1801) | Secure auth and MongoDB integration for scalable APIs |
+| [**Webhook Trigger LogicApp**](https://github.com/venkatk1801) | Capturing and transforming events using Azure Logic Apps |
 
 ---
 
-## ✈️ Hobbies & Interests
+## 💡 Hobbies & Interests
 
-- 🌍 Exploring the world solo – 5+ countries done, 25+ to go!
-- 📸 Travel photography and video storytelling
-- ⚙️ Obsessed with building efficient data systems
-- 🤖 Learning about AI & Large Language Models
+- ✈️ **Travel** – Exploring cultures, temples, and hidden gems
+- 📊 **Data Engineering** – My core passion 💙
+- 🧠 **AI & LLMs** – Eager to learn and innovate
+- 📸 **Videography & Editing** – Capturing stories through a lens
+
+---
+
+> _"Do what you love, and code what you dream."_ 💭
 
 ---
 
-_“First, solve the problem. Then, write the code.” – John Johnson_
-
----
+<p align="center">
+  🧑‍💻 Built with ❤️ by <strong>Venkat</strong> | <a href="mailto:venkataramana1801@gmail.com">📨 Reach out</a>
+</p>
