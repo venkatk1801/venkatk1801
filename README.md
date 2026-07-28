@@ -1,86 +1,100 @@
-# Hi there 👋 I'm Venkat
+<h1 align="center">Hi 👋, I'm Venkat</h1>
 
-### ☁️ Cloud Software Engineer | 🤖 AI Data Engineer
+<h3 align="center">
+☁️ Cloud Software Engineer • 🤖 AI Data Engineer
+</h3>
 
-Building scalable cloud-native applications, intelligent data platforms, and AI-powered solutions on Azure.
+<p align="center">
+Building scalable cloud-native applications, AI-powered data platforms, and modern distributed systems.
+</p>
 
----
-
-## 👨‍💻 About Me
-
-- ☁️ Cloud Software Engineer with expertise in distributed systems and cloud-native architectures
-- 🤖 AI Data Engineer passionate about integrating LLMs and GenAI into modern data platforms
-- ⚡ Experienced in designing scalable batch and real-time data pipelines
-- 🛠️ Building production-ready solutions using Azure, Databricks, Kafka, Snowflake, and PySpark
-- 🚀 Always exploring AI agents, RAG, automation, and cloud engineering
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Cloud+Software+Engineer;AI+Data+Engineer;Azure+%7C+Databricks+%7C+Kafka;PySpark+%7C+Snowflake+%7C+DBT;Generative+AI+%7C+LLMs+%7C+RAG;Always+Building+🚀" />
+</p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 About Me
 
-- 🤖 Generative AI & AI Agents
-- ☁️ Azure Cloud Architecture
-- ⚡ Real-Time Streaming with Kafka
-- 📊 Modern Data Engineering
-- 🔄 CI/CD & Infrastructure Automation
+- ☁️ Cloud Software Engineer specializing in cloud-native applications and distributed systems.
+- 🤖 AI Data Engineer passionate about Generative AI, LLM-powered solutions, and intelligent data platforms.
+- ⚡ Experienced in designing batch and real-time data pipelines using Azure, Databricks, Kafka, Snowflake, and PySpark.
+- 🚀 Currently exploring AI Agents, MCP, Azure AI Foundry, Kubernetes, and modern cloud architectures.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-Python • SQL • PySpark • Java
+<p align="center">
 
-### Cloud
-Azure • Azure Functions • Logic Apps • Azure Blob Storage • Azure DevOps
+<img src="https://skillicons.dev/icons?i=python,java,git,docker,terraform,github,azure"/>
 
-### Data Engineering
-Databricks • Apache Spark • Kafka • Snowflake • DBT • Delta Lake • Airflow
+</p>
 
-### AI & ML
-Azure OpenAI • OpenAI • Claude • LangChain • Vector Databases • RAG
+<p align="center">
 
-### DevOps
-Git • GitHub Actions • Docker • Terraform • CI/CD
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logic_Apps-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-🚀 Cloud Data Platform
+🚀 Azure Data Lakehouse
 
-⚡ Real-Time Kafka Streaming Pipeline
+⚡ Real-Time Kafka Streaming
 
-📊 Lakehouse Analytics with Databricks
+🤖 AI Data Assistant
 
-🤖 AI-Powered Data Assistant
+📊 Customer Analytics Platform
 
-☁️ Azure Serverless Data Processing
+☁️ Serverless Cloud APIs
 
-📈 End-to-End Modern Data Platform
-
----
-
-## 📈 GitHub Stats
-
-(Add GitHub Stats Card)
+📈 Modern Data Platform
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Analytics
 
-- Multi-Agent AI Systems
-- Azure AI Foundry
-- Kubernetes
-- Model Context Protocol (MCP)
-- AI Observability
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=venkatk1801&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatk1801&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatk1801&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=venkatk1801&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
-## 🤝 Let's Connect
+<p align="center">
 
-💼 LinkedIn
+💼 LinkedIn • 📧 Email
 
-📧 Email
+⭐ Open to Cloud Software Engineering, AI Engineering & Data Engineering opportunities.
 
-⭐ Always interested in Cloud Engineering, AI Engineering, and Data Engineering opportunities.
+</p>
