@@ -1,5 +1,8 @@
 name: Generate Contribution Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 6 * * *"  # daily at 06:00 UTC
