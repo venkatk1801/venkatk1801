@@ -9,6 +9,10 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 </p>
 
 <p align="center">
+<a href="https://venkatk1801.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20My%20Website-venkatk1801.github.io-00C2FF?style=for-the-badge" alt="my website" /></a>
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=venkatk1801&style=flat-square&color=00C2FF" alt="profile views" />
 <a href="https://github.com/venkatk1801?tab=followers"><img src="https://img.shields.io/github/followers/venkatk1801?label=Followers&style=social" alt="followers" /></a>
 <a href="https://github.com/venkatk1801?tab=repositories"><img src="https://img.shields.io/github/stars/venkatk1801?style=social" alt="stars" /></a>
