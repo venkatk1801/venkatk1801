@@ -9,7 +9,7 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Cloud+Software+Engineer;AI+Data+Engineer;Azure+%7C+Databricks+%7C+Kafka;PySpark+%7C+Snowflake+%7C+DBT;Generative+AI+%7C+LLMs+%7C+RAG;Always+Building+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=400&lines=Cloud+Software+Engineer;AI+Data+Engineer;Azure+%7C+Databricks+%7C+Kafka;PySpark+%7C+Snowflake+%7C+DBT;Generative+AI+%7C+LLMs+%7C+RAG;Always+Building+🚀" />
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 - 🚀 Currently exploring AI Agents, MCP, Azure AI Foundry, Kubernetes, and modern cloud architectures.
 
 <details>
-<summary><b>⚡ A few more things — click to expand</b></summary>
+<summary><b>⚡ A few more things — tap to expand</b></summary>
 <br>
 
-- 🔭 I turn ideas into shipped side projects — trading tooling, automation bots, and dev utilities (see pinned repos below).
+- 🔭 I turn ideas into shipped side projects — trading tooling, automation bots, and dev utilities (see below).
 - 🌱 Currently levelling up on **AI agents**, **MCP servers**, and **Kubernetes**.
 - 💡 I like tools that respect your data: local-first, no sign-up, no tracking.
 - ⚡ Fun fact: I automate everything twice — once to build it, once to never do it manually again.
@@ -68,67 +68,31 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/venkatk1801/smart-trade-journal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatk1801&repo=smart-trade-journal&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/venkatk1801/visa-slot-notifier">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatk1801&repo=visa-slot-notifier&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/venkatk1801/jd-matcher">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatk1801&repo=jd-matcher&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/venkatk1801/pagesmith">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatk1801&repo=pagesmith&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/venkatk1801/bitcoin-price-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatk1801&repo=bitcoin-price-api&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/venkatk1801/fast-api-graphQL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatk1801&repo=fast-api-graphQL&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-</table>
+- 📈 [**smart-trade-journal**](https://github.com/venkatk1801/smart-trade-journal) — trading journal with P&L tracking, PDT day-trade warnings, and one-command HTML reports
+- 🔔 [**visa-slot-notifier**](https://github.com/venkatk1801/visa-slot-notifier) — poll appointment slots with pluggable checkers and get pinged the moment one opens
+- 🎯 [**jd-matcher**](https://github.com/venkatk1801/jd-matcher) — resume vs. job-description keyword gap analyzer for tailoring every application
+- ✍️ [**pagesmith**](https://github.com/venkatk1801/pagesmith) — zero-dependency static site generator: Markdown in, blog + RSS out
+- ₿ [**bitcoin-price-api**](https://github.com/venkatk1801/bitcoin-price-api) — real-time Bitcoin price tracker API (FastAPI) with a live Chart.js dashboard
+- 🔌 [**fast-api-graphQL**](https://github.com/venkatk1801/fast-api-graphQL) — FastAPI + GraphQL experiments
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=venkatk1801&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatk1801&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=venkatk1801&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatk1801&theme=tokyonight&hide_border=true"/>
-
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatk1801&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatk1801&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=venkatk1801&theme=tokyonight&no-frame=true&column=4"/>
-
+<p align="center">
+<img width="400" src="https://github-profile-trophy.vercel.app/?username=venkatk1801&theme=tokyonight&no-frame=true&column=3"/>
 </p>
 
 ---
@@ -136,9 +100,8 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 ## 🐍 Watch my contributions get eaten
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/venkatk1801/venkatk1801/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+<img width="100%" src="https://raw.githubusercontent.com/venkatk1801/venkatk1801/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
-<!-- The snake appears after the scheduled workflow runs once (it generates the SVG on the 'output' branch). -->
 
 ---
 
