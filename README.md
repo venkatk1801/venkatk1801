@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkat</h1>
-
-<h3 align="center">
-☁️ Cloud Software Engineer • 🤖 AI Data Engineer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I%27m%20Venkat%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Software%20Engineer%20%E2%80%A2%20AI%20Data%20Engineer&descSize=18&descAlignY=58&descAlign=center" />
 
 <p align="center">
 Building scalable cloud-native applications, AI-powered data platforms, and modern distributed systems.
@@ -14,6 +10,8 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=venkatk1801&style=flat-square&color=00C2FF" alt="profile views" />
+<a href="https://github.com/venkatk1801?tab=followers"><img src="https://img.shields.io/github/followers/venkatk1801?label=Followers&style=social" alt="followers" /></a>
+<a href="https://github.com/venkatk1801?tab=repositories"><img src="https://img.shields.io/github/stars/venkatk1801?style=social" alt="stars" /></a>
 </p>
 
 ---
@@ -105,6 +103,16 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 
 ---
 
+## 😄 Just for fun
+
+<p align="center">
+<img width="400" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="dev joke — refresh for a new one" />
+<br/>
+<sub>↑ refresh the page for a new joke</sub>
+</p>
+
+---
+
 <p align="center">
 
 💼 LinkedIn • 📧 Email
@@ -112,3 +120,5 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 ⭐ Open to Cloud Software Engineering, AI Engineering & Data Engineering opportunities.
 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
