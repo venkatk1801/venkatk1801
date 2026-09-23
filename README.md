@@ -25,14 +25,14 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 - ☁️ Cloud Software Engineer specializing in cloud-native applications and distributed systems.
 - 🤖 AI Data Engineer passionate about Generative AI, LLM-powered solutions, and intelligent data platforms.
 - ⚡ Experienced in designing batch and real-time data pipelines using Azure, Databricks, Kafka, Snowflake, and PySpark.
-- 🚀 Currently exploring AI Agents, MCP, Azure AI Foundry, Kubernetes, and modern cloud architectures.
+- 🚀 Currently building with **AI Agents, MCP, and the Claude API** — 3 new open-source projects below. Also exploring Azure AI Foundry, Kubernetes, and modern cloud architectures.
 
 <details>
 <summary><b>⚡ A few more things — tap to expand</b></summary>
 <br>
 
 - 🔭 I turn ideas into shipped side projects — trading tooling, automation bots, and dev utilities (see below).
-- 🌱 Currently levelling up on **AI agents**, **MCP servers**, and **Kubernetes**.
+- 🌱 Currently levelling up on **AI agents**, **MCP servers**, and **Kubernetes** — just shipped 3 open-source projects on the Claude API + MCP.
 - 💡 I like tools that respect your data: local-first, no sign-up, no tracking.
 - ⚡ Fun fact: I automate everything twice — once to build it, once to never do it manually again.
 
@@ -58,6 +58,8 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Logic_Apps-0078D4?style=for-the-badge"/>
@@ -70,6 +72,9 @@ Building scalable cloud-native applications, AI-powered data platforms, and mode
 
 ## 📌 Featured Projects
 
+- 🤖 [**claude-agent-kit**](https://github.com/venkatk1801/claude-agent-kit) — from-scratch agentic tool-use loop on the Claude API: streaming, cost tracking, prompt caching, sandboxed tools
+- 🔌 [**mcp-market-pulse**](https://github.com/venkatk1801/mcp-market-pulse) — MCP server with market-data tools (quotes, history, RSI/SMA) + a Claude-powered natural-language client
+- 📦 [**claude-batch-pipeline**](https://github.com/venkatk1801/claude-batch-pipeline) — bulk document processing with Anthropic's Batch API + structured outputs: schema validation, cost estimation, CLI
 - 📈 [**smart-trade-journal**](https://github.com/venkatk1801/smart-trade-journal) — trading journal with P&L tracking, PDT day-trade warnings, and one-command HTML reports
 - 🔔 [**visa-slot-notifier**](https://github.com/venkatk1801/visa-slot-notifier) — poll appointment slots with pluggable checkers and get pinged the moment one opens
 - 🎯 [**jd-matcher**](https://github.com/venkatk1801/jd-matcher) — resume vs. job-description keyword gap analyzer for tailoring every application
